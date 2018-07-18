@@ -1,0 +1,20 @@
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+#sally-image {
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
+.section-title {
+  text-decoration: underline;
+}
+
+.description {
+  font-style: italic;
+}
